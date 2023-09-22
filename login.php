@@ -1,9 +1,9 @@
 <?php
 echo "<link rel=stylesheet href=style.css>";
-$servername = "localhost";
-$username = "root";
-$password = "paolo";
-$dbname = "viajes";
+$servername = "localhost:3306";
+$username = "paolo";
+$password = "pa0l05ur13l";
+$dbname = "software";
 $usuario = $_POST['usuario'];
 $contrasena = $_POST['password'];
 
